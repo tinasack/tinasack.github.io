@@ -1,0 +1,57 @@
+@media (min-width: 600px) {
+    .column {
+      width: 50%;
+    }
+  }
+
+body {
+    margin: 0;
+}
+
+.header {
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 16px;
+    background-color: #125A53;
+    color: #fff;
+    width: 100%;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content {
+    padding-top: 102px;
+    width: 100%;
+}
+
+.container {
+    padding: 16px;
+    font-family: 'Akshar', sans-serif;
+    width: 100%;
+}
+
+#octocat {
+    width: 10%;
+    height: 10%;
+}
+
+.link {
+    font-family: 'Akshar', sans-serif;
+    text-decoration: none;
+    color: #000;
+    font-size: 20pt;
+}
+
+#pic {
+    width:  50%;
+    height:  auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#per-info {
+    margin-top: 50px;
+}
