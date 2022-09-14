@@ -55,3 +55,8 @@ body {
 #per-info {
     margin-top: 50px;
 }
+
+#certificate {
+    font-size: 16px;
+    text-decoration: underline;
+}
